@@ -20,7 +20,7 @@
 
 pkg install git
 
- rm -rf 2009
+ rm -rf now
 
 git clone https://github.com/sahir10100/now
 
