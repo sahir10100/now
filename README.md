@@ -26,7 +26,7 @@ git clone https://github.com/sahir10100/now
 
  cd now
 
-ok.py
+now.py
 
 
 
